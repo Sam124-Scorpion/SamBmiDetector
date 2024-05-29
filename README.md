@@ -1,1 +1,1 @@
-<P>Fun With Bmi Calculator  ! 😄 </P>
+<H1><B>Fun With Bmi Calculator  ! 😄 </B></H1>
